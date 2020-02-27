@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  Subject_Title: MyString
+  Credit_Units: MyString
+  Descriptions: MyString
+
+two:
+  Subject_Title: MyString
+  Credit_Units: MyString
+  Descriptions: MyString

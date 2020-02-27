@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  Full_Name: MyString
+  Course: MyString
+  Birthdate: 2020-02-27 20:46:07
+  Age: 1
+  Sex: MyString
+
+two:
+  Full_Name: MyString
+  Course: MyString
+  Birthdate: 2020-02-27 20:46:07
+  Age: 1
+  Sex: MyString
