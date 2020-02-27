@@ -1,0 +1,19 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  seat_seq_id: 1
+  address: MyText
+  price: 9.99
+  email: MyString
+  birthday: 2020-02-20 19:15:25
+  is_vip: false
+
+two:
+  name: MyString
+  seat_seq_id: 1
+  address: MyText
+  price: 9.99
+  email: MyString
+  birthday: 2020-02-20 19:15:25
+  is_vip: false

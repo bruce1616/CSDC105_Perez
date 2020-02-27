@@ -1,0 +1,39 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <strong>Name:</strong>
+  <%= @ticket.name %>
+</p>
+
+<p>
+  <strong>Seat #:</strong>
+  <%= @ticket.seat_seq_id %>
+</p>
+
+<p>
+  <strong>Address:</strong>
+  <%= @ticket.address %>
+</p>
+
+<p>
+  <strong>Price:</strong>
+  <%= @ticket.price %>
+</p>
+
+<p>
+  <strong>Email:</strong>
+  <%= @ticket.email %>
+</p>
+
+<p>
+  <strong>Birthday:</strong>
+  <%= @ticket.birthday %>
+</p>
+
+<p>
+  <strong>Is vip:</strong>
+  <%= @ticket.is_vip %>
+</p>
+
+<%= link_to 'Edit', edit_ticket_path(@ticket) %> |
+<%= link_to 'Back', tickets_path %>
